@@ -128,7 +128,7 @@
         "name": "Basic"
       },
       "properties": {
-        "publicIPAllocationMethod": "Dynamic",
+        "publicIPAllocationMethod": "Static",
         "publicIPAddressVersion": "IPv4",
         "dnsSettings": {
           "domainNameLabel": "[parameters('webVmdnsLabelPrefix')]"
